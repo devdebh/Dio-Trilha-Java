@@ -41,9 +41,9 @@ O programa simula a abertura de uma conta bancária em um ambiente de terminal. 
 
 4. Solicita o saldo inicial da conta (número decimal).
 
-Ao final, imprime uma mensagem com todos os dados formatados de maneira amigável.
+Ao final, imprime uma mensagem com todos os dados formatados de maneira organizada.
 
-*****
+![terminal](execução-terminal.png)
 
 > 📌 O exercício reforçou práticas com Scanner, fluxo sequencial de código e o uso combinado de diferentes tipos de variáveis.
 
